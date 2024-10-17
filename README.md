@@ -4,12 +4,12 @@
 </p>
 
 ## 🔴About
-FPS, souls-like game, where you shoot horror creatures and explore dungeon.
+Rail Shooter, Photography game, where you can take photo of insects and complete your journal collection. This game is heavily inspired by Pokemon Snap, where you could take photo of actual animals.
 
 <br>
 
 ## 🕹️Download Game (**Game not available yet**)
-Download game directly from GitHub.
+Download game here: https://drive.google.com/drive/folders/1BVCghf934JQzxnhK4gVFz2UhGq8g0Bet?usp=sharing.
 
 <br>
 
@@ -47,14 +47,20 @@ The following controls are bound in-game, for gameplay and testing.
 
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| `CameraMouse.cs` | Handles FPS camera |
-| `EnemyAI.cs` | Handles enemy's player detection and attack state |
-| `EnemyHP.cs`  | Manage enemy HP properties, and death state |
-| `GunRecoilEffect.cs`  | Handles gun recoil movement when shooting |
-| `GunScript.cs`  | Handles gun shooting |
-| `PlayerMovement.cs`  | Handles basic player movement |
-| `Target.cs`  | Handles target raycast detection when object is shot |
-
+| `BtnActivateCanvas.cs` | Handles canvas component to activate from button |
+| `ChangeScene.cs` | Handles scene change |
+| `DisableComponent.cs` | Handles component to disable |
+| `FirstPersonCamera.cs` | Handles first person camera movement |
+| `FlashFX.cs` | Creates Flash FX |
+| `ImageCapture.cs` | Handles image taking and save as file |
+| `InsectData.cs` | Handles properties of insect object |
+| `JournalReg.cs` | Handles properties of journal information |
+| `ObjectDetection.cs` | Handles detection of insects |
+| `ObjectMovement.cs` | Handles insects movement |
+| `Pause.cs` | Handles game pause |
+| `RotatingTitle.cs` | Creates rotating effect in title screen |
+| `ScrollZoom.cs` | Handles zooming in and out when taking photo |
+| `WaypointMovement.cs` | Handles character movement |
 
 <br>
 
