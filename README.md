@@ -24,6 +24,9 @@ Download game here: https://drive.google.com/drive/folders/1BVCghf934JQzxnhK4gVF
 ├── SeaCleaner                     
    ├── Assets                      
       ├── ...
+      ├── 2D Assets                #  This folder contains all 2D assets files (PNG)
+      ├── 3D Assets                #  This folder contains all 3D assets files (blend)
+      ├── Audio                    #  This folder contains all audio files (MP3)
       ├── Scenes                   #  This folder contains all scene files
       ├── Scripts                  #  This folder contains all script files
       ├── Settings                 #  This folder contains all setting file automatically made by Unity for URP
