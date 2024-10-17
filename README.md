@@ -1,11 +1,62 @@
+<p align="center">
+  <img width="100%" alt="" src="">
+  </br>
+</p>
+
 ## 🔴About
-Photography game like Pokemon Snap, where player take photo of various insects.
+FPS, souls-like game, where you shoot horror creatures and explore dungeon.
+
 <br>
 
-## 🕹️Download Game
-[Download Here!](https://drive.google.com/file/d/1cptBy3YrAV7zghseVtDuZriKLTfh_SDf/view?usp=sharing)
+## 🕹️Download Game (**Game not available yet**)
+Download game directly from GitHub.
+
 <br>
 
-## ▶️ Video Gameplay
-https://www.youtube.com/watch?v=2MqocXWToeM
+## ▶️ Gameplay
+<img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/entograph.gif">
+
 <br>
+
+## 📂Files description
+
+```
+├── SeaCleaner                     
+   ├── Assets                      
+      ├── ...
+      ├── Scenes                   #  This folder contains all scene files
+      ├── Scripts                  #  This folder contains all script files
+      ├── Settings                 #  This folder contains all setting file automatically made by Unity for URP
+   ├── Packages                    
+   ├── ProjectSettings             
+
+```
+<br>
+
+## 🕹️Game controls
+
+The following controls are bound in-game, for gameplay and testing.
+
+| Key Binding (Mouse & Keyboard)       |  Function          | 
+| ----------------- | ----------------- |
+| F         | Take Photo |
+| Scroll Wheel            | Zoom In and Out |
+<br>
+
+##  📜Scripts
+
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `CameraMouse.cs` | Handles FPS camera |
+| `EnemyAI.cs` | Handles enemy's player detection and attack state |
+| `EnemyHP.cs`  | Manage enemy HP properties, and death state |
+| `GunRecoilEffect.cs`  | Handles gun recoil movement when shooting |
+| `GunScript.cs`  | Handles gun shooting |
+| `PlayerMovement.cs`  | Handles basic player movement |
+| `Target.cs`  | Handles target raycast detection when object is shot |
+
+
+<br>
+
+## 🔥Unity Version
+This game was developed using **Unity (2022.3.46f1)**.
