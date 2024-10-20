@@ -18,6 +18,14 @@ Download game here: https://drive.google.com/drive/folders/1BVCghf934JQzxnhK4gVF
 
 <br>
 
+## 📋Project Info
+|  | |
+| ------------------- | ------------------------------------------------------------ |
+| Unity Version | Unity 2022.3.46f1 |
+| Development Time | 1 month |
+
+<br>
+
 ## 📂Files description
 
 ```
@@ -64,8 +72,3 @@ The following controls are bound in-game, for gameplay and testing.
 | `RotatingTitle.cs` | Creates rotating effect in title screen |
 | `ScrollZoom.cs` | Handles zooming in and out when taking photo |
 | `WaypointMovement.cs` | Handles character movement |
-
-<br>
-
-## 🔥Unity Version
-This game was developed using **Unity (2022.3.46f1)**.
