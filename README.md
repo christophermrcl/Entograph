@@ -8,7 +8,7 @@ Rail Shooter, Photography game, where you can take photo of insects and complete
 
 <br>
 
-## 🕹️Download Game (**Game not available yet**)
+## 🕹️Download Game
 Download game here: https://drive.google.com/drive/folders/1BVCghf934JQzxnhK4gVFz2UhGq8g0Bet?usp=sharing.
 
 <br>
